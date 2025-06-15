@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Harnessing the cutting-edge synergy of Retrieval-Augmented Generation (RAG), Large Language Models (LLM), and OpenAI’s state-of-the-art technology, this AI-driven application transforms the way you navigate your career. It delivers a nuanced, in-depth resume analysis—summarizing your profile, pinpointing strengths and weaknesses, and offering bespoke recommendations to elevate your professional narrative. Coupled with an intelligent LinkedIn scraping module powered by Selenium, it extracts rich, actionable job market insights, including company names, roles, locations, direct URLs, and detailed descriptions. This seamless fusion empowers job seekers to strategize and optimize their career trajectory with unmatched precision and ease.
+Harnessing the the cutting-edge synergy of Retrieval-Augmented Generation (RAG), Large Language Models (LLM), and OpenAI’s state-of-the-art technology, this AI-driven application transforms the way you navigate your career. It delivers a nuanced, in-depth resume analysis—summarizing your profile, pinpointing strengths and weaknesses, and offering bespoke recommendations to elevate your professional narrative. Coupled with an intelligent LinkedIn scraping module powered by Selenium, it extracts rich, actionable job market insights, including company names, roles, locations, direct URLs, and detailed descriptions. This seamless fusion empowers job seekers to strategize and optimize their career trajectory with unmatched precision and ease.
 
 ---
 
